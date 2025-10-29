@@ -5,11 +5,12 @@
 - 🌱 Areas of Focus: RAG, Agent Orchestration
 - 📫 How to reach me: zachary.xi@gmail.com
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zlxi02&show_icons=true)
 
 
 <!--
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zlxi02&show_icons=true)
+
 **zlxi02/zlxi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
