@@ -3,7 +3,7 @@
 I'm currently building Agentforce at Salesforce.
 
 Previously, I was:
-- 🔭 Building Enflux AI (Recruiting platform)
+- 🔭 Founder of Enflux AI (Recruiting platform)
 - 🌱 Stanford CS / ML (Model Fine-tuning, NLP, Human-Centered AI)
 - 📊 Business Analyst at McKinsey
 
