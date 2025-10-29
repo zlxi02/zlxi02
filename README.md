@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Zach
+# Hi! I'm Zach
 
 ## About Me
 - 🔭 Currently building Agentforce at Salesforce
