@@ -1,12 +1,13 @@
-## Hi! I'm Zach
+# Hi! I'm Zach
 
-## About Me
-- 🔭 Currently building Agentforce at Salesforce
-- 🌱 Areas of Focus: RAG, Agent Orchestration
-- 📫 How to reach me: zachary.xi@gmail.com
+I'm currently building Agentforce at Salesforce.
 
+Previously, I was:
+- 🔭 Building Enflux AI (Recruiting platform)
+- 🌱 Stanford CS / ML (Model Fine-tuning, NLP, Human-Centered AI)
+- 📊 Business Analyst at McKinsey
 
-
+📫 You can reach me at zachary.xi@gmail.com or via LinkedIn.
 <!--
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zlxi02&show_icons=true)
