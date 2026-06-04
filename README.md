@@ -1,11 +1,11 @@
 # Hi! I'm Zach
 
-I'm currently building Agentforce at Salesforce ☁️.
+I'm a PM at @Inferact.
 
 Previously, I was:
+- ☁️ Product at Salesforce
 - 🔭 Founder of Enflux AI (Recruiting platform)
-- 🌱 Stanford CS / ML (Model Fine-tuning, NLP, Human-Centered AI)
-- 📊 Business Analyst at McKinsey
+- 🌱 Stanford CS / ML (NLP, HCAI)
 
 📫 You can reach me at zachary.xi@gmail.com or via LinkedIn.
 <!--
