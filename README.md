@@ -7,7 +7,7 @@ Previously, I was:
 - 🔭 Founder of Enflux AI (Recruiting platform)
 - 🌱 Stanford CS / ML (NLP, HCAI)
 
-📫 You can reach me at zachary.xi@gmail.com or via LinkedIn.
+📫 You can reach me at zachary.xi@gmail.com
 <!--
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zlxi02&show_icons=true)
