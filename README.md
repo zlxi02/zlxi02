@@ -1,6 +1,6 @@
 # Hi! I'm Zach
 
-I'm a PM at @Inferact.
+I'm a PM at Inferact.
 
 Previously, I was:
 - ☁️ Product at Salesforce
