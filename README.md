@@ -4,7 +4,7 @@ I'm a PM at Inferact.
 
 Previously, I was:
 - ☁️ Product at Salesforce
-- 🔭 Founder of Enflux AI (Recruiting platform)
+- 🔭 Founder of Enflux (AI talent platform)
 - 🌱 Researcher at Stanford (Natural Language, Human-Computer Interaction)
 
 You can reach me at zachary.xi@gmail.com
